@@ -1,0 +1,4 @@
+[submodule "Capacitor-NodeJS"]
+	path = Capacitor-NodeJS
+	url = https://github.com/hampoelz/Capacitor-NodeJS
+	branch = main
