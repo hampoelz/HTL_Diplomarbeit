@@ -2,3 +2,7 @@
 	path = Capacitor-NodeJS
 	url = https://github.com/hampoelz/Capacitor-NodeJS
 	branch = main
+[submodule "Capacitor-BrowserView"]
+	path = Capacitor-BrowserView
+	url = https://github.com/hampoelz/Capacitor-BrowserView
+	branch = main
