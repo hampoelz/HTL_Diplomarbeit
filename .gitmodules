@@ -6,3 +6,7 @@
 	path = Capacitor-BrowserView
 	url = https://github.com/hampoelz/Capacitor-BrowserView
 	branch = main
+[submodule "Lastenheft"]
+	path = Lastenheft
+	url = https://github.com/hampoelz/HTL_Diplomarbeit_Lastenheft/
+	branch = main
