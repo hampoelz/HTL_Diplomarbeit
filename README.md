@@ -1,5 +1,5 @@
 # HTL_Diplomarbeit
-🎓 Platformübergreifender WebApp-Wrapper mit benutzerdefiniertem NodeJS-Backend
+🎓 Plattformübergreifender WebApp-Wrapper mit benutzerdefiniertem NodeJS-Backend
 
 ## Ausgangslage:
 
