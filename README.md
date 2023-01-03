@@ -1,6 +1,8 @@
 # HTL_Diplomarbeit
 🎓 Plattformübergreifender WebApp-Wrapper mit benutzerdefiniertem NodeJS-Backend
 
+![Banner](./Branding/rendered/Banner.png)
+
 ## Ausgangslage:
 
 Mit dem Framework ElectronJS werden Programme für Desktop-Systeme mit Webtechnologien (Frontend) und NodeJS (Backend) entwickelt. Mobile-Systeme werden nicht unterstützt. Durch das CapacitorJS-Framework werden Mobile-Apps mit Webtechnologien entwickelt, jedoch fehlt dort das NodeJS-Backend. Somit können keine Apps mit Webtechnologien und NodeJS vollständig plattformübergreifend entwickelt werden.
