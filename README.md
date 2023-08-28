@@ -40,11 +40,11 @@ Web-Entwickler sollen ohne Erfahrung über native Apps, aus ihrer WebApp bzw. We
 Meilensteine:
 
 * [x] [Capacitor-NodeJS] Android Integration
-* [ ] [Capacitor-NodeJS] iOS Integration
+* [ ] ~[Capacitor-NodeJS] iOS Integration~
 * [x] [Capacitor-NodeJS] ElectronJS Integration
-* [ ] [Capacitor-BrowserView] iOS Portierung
-* [ ] [Capacitor-BrowserView] Android Portierung
-* [ ] [Capacitor-BrowserView] ElectronJS Integration
-* [ ] [Universal PWA-Wrapper] Grundgerüst (mit ElectronJS, CapacitorJS und der NodeJS- und BrowserView-Erweiterung)
-* [ ] [Universal PWA-Wrapper] Benutzeroberfläche
-* [ ] [Universal PWA-Wrapper] Updater funktionalität
+* [x] [Capacitor-BrowserView] Android Portierung
+* [ ] ~[Capacitor-BrowserView] iOS Portierung~
+* [x] [Capacitor-BrowserView] ElectronJS Integration
+* [x] [Universal PWA-Wrapper] Grundgerüst (mit ElectronJS, CapacitorJS und der NodeJS- und BrowserView-Erweiterung)
+* [x] [Universal PWA-Wrapper] Benutzeroberfläche
+* [ ] ~[Universal PWA-Wrapper] Updater funktionalität~
