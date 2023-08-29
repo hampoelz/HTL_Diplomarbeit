@@ -10,3 +10,7 @@
 	path = Lastenheft
 	url = https://github.com/hampoelz/HTL_Diplomarbeit_Lastenheft/
 	branch = main
+[submodule "Dokumentation"]
+	path = Dokumentation
+	url = https://github.com/hampoelz/HTL_Diplomarbeit_Dokumentation/
+	branch = main
