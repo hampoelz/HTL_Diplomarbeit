@@ -14,3 +14,7 @@
 	path = Dokumentation
 	url = https://github.com/hampoelz/HTL_Diplomarbeit_Dokumentation/
 	branch = main
+[submodule "WebApp-Wrapper"]
+	path = WebApp-Wrapper
+	url = https://github.com/hampoelz/WebApp-Wrapper/
+	branch = main
