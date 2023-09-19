@@ -33,6 +33,7 @@ Finally, with the two extensions, the WebApp wrapper can be successfully impleme
 **Informatives**
 - [Lastenheft](https://github.com/hampoelz/HTL_Diplomarbeit_Lastenheft)
 - [Dokumentation](https://github.com/hampoelz/HTL_Diplomarbeit_Dokumentation)
+- [Präsentation](https://github.com/hampoelz/HTL_Diplomarbeit_Praesentation)
 
 **Unterprojekte**
 - [Capacitor-NodeJS](https://github.com/hampoelz/Capacitor-NodeJS)
